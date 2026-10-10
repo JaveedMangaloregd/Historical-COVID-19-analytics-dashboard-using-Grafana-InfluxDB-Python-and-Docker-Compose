@@ -1,0 +1,7 @@
+pandas
+influxdb==5.3.2
+
+
+#pandas reads and cleans CSV files.
+#influxdb provides the Python client for InfluxDB 1.x.
+#We pin the InfluxDB client version so that the tutorial's API usage is predictable.
